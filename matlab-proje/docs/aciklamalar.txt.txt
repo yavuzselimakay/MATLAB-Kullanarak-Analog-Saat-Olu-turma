@@ -1,0 +1,12 @@
+PROJE ADI: MATLAB Analog Saat Tasarımı
+
+AÇIKLAMA:
+Bu çalışma, MATLAB programlama dili kullanılarak oluşturulmuş gerçek zamanlı bir analog saattir. 
+Kod çalıştırıldığında sistem saatini (datetime) baz alarak akrep, yelkovan ve saniye kollarını hareket ettirir.
+
+TEKNİK DETAYLAR:
+- Grafik çizimi için 'plot' ve 'text' komutları kullanılmıştır.
+- Trigonometrik fonksiyonlar (sin/cos) ile saat kollarının açıları hesaplanmıştır.
+- 'while' döngüsü ve 'drawnow' komutu ile sürekli güncellenme sağlanmıştır.
+
+Yazar: Yavuz Selim Akay
